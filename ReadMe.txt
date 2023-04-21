@@ -1,8 +1,7 @@
-o deploy the project infrastructure using terraform, follow below steps
+Deploy the project infrastructure using terraform and later reconfigure with Ansible, follow below steps
 
 #################################################################################################################################################################################
-
-Pre-requisites: a) Clone the code from Github repository link into Cloud9 environment Link:
+ a) Clone the code from Github repository link into Cloud9 environment Link:
 
 b) Make ssh key: ssh-keygen -t rsa -f week6 in webserver (Remember to delete the previous key)
 
