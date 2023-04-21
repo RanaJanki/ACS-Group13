@@ -36,5 +36,5 @@ do sudo vi /etc/ansible/ansible.cfg
 and add inventory = *path to aws_ec2.yaml*
 
 
-# The below one will reconfgigure webservers to shows "Created by Ansible"
+The below one will reconfigure webservers to shows "Created by Ansible"
 do ansible-playbook -i aws_ec2.yaml playbook3.yaml 
